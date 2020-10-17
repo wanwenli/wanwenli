@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**wanwenli/wanwenli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨🏻‍💻 About Me
 
-Here are some ideas to get you started:
+- 💼 A data engineer.
+- 🔭 Working on Scala and [golang](https://golang.org/).
+- 🌱 Learning golang.
+- 💬 Ask me about Kubernetes and Kafka.
+- 📫 Find me on [LinkedIn](https://www.linkedin.com/in/wanwenli/) | [Twitter](https://twitter.com/wenli_wan)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tech Stack
+- 💻 Python | Go | Scala | Java
+- 🌐 Play framework | mux | flask
+- 🛢 MySQL | Cassandra | Kafka | Spark | Kubernetes
